@@ -3,7 +3,7 @@
 I'm Ola, I am a student of Practical Computer Science at the University of Gdansk 🚀 
   
 
-- 🔭 I’m currently working on [MERN Blog](https://github.com/amordzon/MERN-Blog)  
+- 🔭 I’m currently working on [MERN Blog](https://github.com/amordzon/MERN-Blog) and [Task Manager](https://github.com/amordzon/task-manager)
   
 
 - 🌱 I’m currently learning Java and Spring Boot 
